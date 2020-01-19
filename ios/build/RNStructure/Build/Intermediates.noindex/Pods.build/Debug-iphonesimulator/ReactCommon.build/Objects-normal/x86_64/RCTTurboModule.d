@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/ashwanisharma/Desktop/RNStructure/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/Optional.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/Portability.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/CPortability.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/Traits.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/Utility.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/ashwanisharma/Desktop/RNStructure/ios/Pods/Folly/folly/CppAttributes.h
